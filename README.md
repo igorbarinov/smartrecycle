@@ -9,6 +9,7 @@ Demo on YouTube:
 alt="Smart Recycle" width="240" height="180" border="10" /></a>
 
 Stack: React Native, Python Flask with some Objective-C hacking
+
 Team: Igor @igorbarinov , Ildar @theotheo
 
 Optimized with [AT&T ARO](https://developer.att.com/application-resource-optimizer)
