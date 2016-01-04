@@ -1,0 +1,15 @@
+{
+  "name": "Capture",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "buffer": "^4.0.0",
+    "js-base64": "git+https://github.com/dankogai/js-base64.git",
+    "react-native": "^0.17.0",
+    "react-native-camera": "^0.3.8"
+  }
+}

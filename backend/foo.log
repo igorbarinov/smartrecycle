@@ -1,0 +1,12 @@
+Adding 1 point to a garbage stream
+{u'included': [{u'attributes': {u'images': [u'https://nm-prod-images.s3.amazonaws.com/featuredImages/11e3b8827914e5dcb17a5655bdddd83d7c1c4865643e644258541a527af59f6e.jpg'], u'tags': [], u'description': u'recycle', u'title': u'Milk'}, u'type': u'entity', u'id': u'1bcb82631baedfc42cd5487584b71c13', u'links': {u'creative': u'/1/creatives?entity=1bcb82631baedfc42cd5487584b71c13'}}], u'meta': {u'totalResults': 1}, u'data': [{u'relationships': {u'entity': {u'data': {u'type': u'entity', u'id': u'1bcb82631baedfc42cd5487584b71c13'}}}, u'attributes': {u'score': 0.04680851}, u'type': u'recognition', u'id': u'1bcb82631baedfc42cd5487584b71c13', u'links': {u'creative': u'/1/creatives?entity=1bcb82631baedfc42cd5487584b71c13'}}], u'jsonapi': {u'version': u'1.0'}}
+200
+Adding 1 point to a recycle stream
+{u'included': [{u'attributes': {u'images': [u'https://nm-prod-images.s3.amazonaws.com/featuredImages/bfa2cf2b79baa109d4c7f99f0ac0989a9b8d106d42af85073e07c6c905311489.jpg'], u'tags': [], u'description': u'garbage', u'title': u'Trash plate'}, u'type': u'entity', u'id': u'3503ec388580d63dec95d0ea44c70655', u'links': {u'creative': u'/1/creatives?entity=3503ec388580d63dec95d0ea44c70655'}}], u'meta': {u'totalResults': 1}, u'data': [{u'relationships': {u'entity': {u'data': {u'type': u'entity', u'id': u'3503ec388580d63dec95d0ea44c70655'}}}, u'attributes': {u'score': 0.22727273}, u'type': u'recognition', u'id': u'3503ec388580d63dec95d0ea44c70655', u'links': {u'creative': u'/1/creatives?entity=3503ec388580d63dec95d0ea44c70655'}}], u'jsonapi': {u'version': u'1.0'}}
+200
+Adding 1 point to a garbage stream
+{u'included': [{u'attributes': {u'images': [u'https://nm-prod-images.s3.amazonaws.com/featuredImages/11e3b8827914e5dcb17a5655bdddd83d7c1c4865643e644258541a527af59f6e.jpg'], u'tags': [], u'description': u'recycle', u'title': u'Milk'}, u'type': u'entity', u'id': u'1bcb82631baedfc42cd5487584b71c13', u'links': {u'creative': u'/1/creatives?entity=1bcb82631baedfc42cd5487584b71c13'}}], u'meta': {u'totalResults': 1}, u'data': [{u'relationships': {u'entity': {u'data': {u'type': u'entity', u'id': u'1bcb82631baedfc42cd5487584b71c13'}}}, u'attributes': {u'score': 0.05106383}, u'type': u'recognition', u'id': u'1bcb82631baedfc42cd5487584b71c13', u'links': {u'creative': u'/1/creatives?entity=1bcb82631baedfc42cd5487584b71c13'}}], u'jsonapi': {u'version': u'1.0'}}
+200
+Adding 1 point to a recycle stream
+{u'meta': {u'totalResults': 0}, u'data': [], u'jsonapi': {u'version': u'1.0'}}
+Adding 1 point to an unrecognized stream
